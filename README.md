@@ -3,13 +3,13 @@
 <hr>
 <h2>To use GUI--></h2>
 <h3>1. Enter the information of the employee and then click on 'ADD RECORD" Button..<h3>
-<img src="https://user-images.githubusercontent.com/76841209/128611169-afd8bf11-bcf9-4331-9254-0cc8b6653bef.PNG">
+<img src="https://user-images.githubusercontent.com/76841209/128611169-afd8bf11-bcf9-4331-9254-0cc8b6653bef.PNG" height="500px" width="500px">
 <br>
 <h3>Data added!!!</h3>
 <img src="https://user-images.githubusercontent.com/76841209/128611206-edeb213a-983c-4ca3-88c9-a849d56e573d.PNG">
 <hr>
 <h3>2. In order to Update or Delete data you just have to entered 'Employee Id'</h3>
-<img src="https://user-images.githubusercontent.com/76841209/128611262-0fd230cb-6ca5-41e7-95f2-4630a80ab436.PNG">
+<img src="https://user-images.githubusercontent.com/76841209/128611262-0fd230cb-6ca5-41e7-95f2-4630a80ab436.PNG" height="500px" width="500px">
 <br>
 <h3>Data updated!!!</h3>
 <img src="https://user-images.githubusercontent.com/76841209/128611475-98db59f9-742b-45e3-8ac7-a87eacbf1bf0.PNG">
