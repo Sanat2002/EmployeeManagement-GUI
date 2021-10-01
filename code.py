@@ -5,7 +5,7 @@ import tkinter.messagebox as tmsg
     
 
 
-if __name__ == '__main__'
+if __name__ == '__main__':
     
     root = Tk()
     root.title("EMPLOYEE MANAGEMENT SYSTEM")
