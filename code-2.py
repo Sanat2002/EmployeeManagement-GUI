@@ -1,5 +1,5 @@
 # GUI USING MONODB DATABASE
-from tkinter import * 
+from tkinter import 
 import time
 import os
 import tkinter.messagebox as tmsg
